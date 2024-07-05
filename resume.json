@@ -258,11 +258,7 @@
     },
     {
       "name": "Travel and Exploring",
-      "keywords": [
-        "Forest Camping",
-        "Trecking",
-        "Mountain Climbing"
-      ]
+      "keywords": ["Forest Camping", "Trecking", "Mountain Climbing"]
     }
   ],
   "references": [
@@ -281,13 +277,16 @@
       "startDate": "2023-06-01",
       "description": "As a key player in the IGOT Karmayogi project, I managed both SRE and DevOps functions, ensuring seamless operations and scalability. Utilizing Terraform and Ansible, I automated infrastructure provisioning and configuration, optimizing resource utilization. Implementation of robust monitoring solutions, including Prometheus and Grafana, bolstered platform availability and performance. Leveraging Kubernetes orchestration, I enhanced containerized deployments for increased scalability and resilience. Furthermore, I orchestrated CI/CD pipelines with Jenkins, enabling swift and reliable software delivery. Overseeing IT operations, I implemented stringent network security measures, safeguarding data integrity. My contributions played a pivotal role in maintaining the stability, scalability, and security of the IGOT Karmayogi platform, fostering effective online learning and collaboration.",
       "highlights": [
-        "Managed both SRE and DevOps functions",
-        "Infrastructure Performance and Cost Optimization",
-        "Implemented robust monitoring solutions",
-        "Leveraged Kubernetes orchestration",
-        "Implemented CI/CD pipelines with Jenkins",
-        "Implemented network security measures",
-        "Managed IT operations and deployment"
+        "Successfully managed SRE and DevOps functions, ensuring seamless operations and scalability of the IGOT Karmayogi platform.",
+        "Utilized Terraform and Ansible to automate infrastructure provisioning and configuration, optimizing resource utilization and efficiency.",
+        "Implemented robust monitoring solutions with Prometheus and Grafana, enhancing platform availability and performance.",
+        "Enhanced containerized deployments using Kubernetes, improving scalability and resilience of the platform.",
+        "Orchestrated CI/CD pipelines with Jenkins, enabling swift and reliable software delivery.",
+        "Oversaw IT operations, implementing stringent network security measures to safeguard data integrity.",
+        "Ensured the stability and scalability of the platform, contributing to effective online learning and collaboration.",
+        "Implemented advanced network security protocols, protecting sensitive data and maintaining compliance with industry standards.",
+        "Optimized resource utilization through automation, reducing costs and improving operational efficiency.",
+        "Played a pivotal role in maintaining the platform’s stability, scalability, and security, fostering a robust environment for online learning and collaboration."
       ],
       "url": "https://igotkarmayogi.gov.in/"
     },
@@ -297,16 +296,37 @@
       "endDate": "2023-05-31",
       "description": "As Team Leader in the DIKSHA project, I managed the SRE and DevOps teams for project Diksha, a large-scale education platform. Leveraging Terraform and Ansible, I automated infrastructure provisioning and configuration, ensuring efficiency. I implemented robust monitoring with Prometheus and Grafana, enhancing availability. Kubernetes orchestration optimized container deployments for scalability and resilience. CI/CD pipelines with Jenkins facilitated rapid software delivery. Additionally, I oversaw IT operations, configuring network security measures for data integrity. My efforts ensured the platform's stability, scalability, and security, contributing to its success in delivering quality education.",
       "highlights": [
-        "Managed both SRE and DevOps functions",
-        "Provisioned and configured infrastructure in Microsoft Azure Cloud",
-        "Infrastructure Performance and Cost Optimization",
-        "Implemented robust monitoring solutions",
-        "Leveraged Kubernetes orchestration",
-        "Implemented CI/CD pipelines with Jenkins",
-        "Implemented network security measures",
-        "Managed IT operations and deployment"
+        "Successfully led the SRE and DevOps teams, driving project success through effective management and collaboration.",
+        "Leveraged Terraform and Ansible to automate infrastructure provisioning and configuration, significantly improving efficiency and reducing manual efforts.",
+        "Implemented robust monitoring solutions using Prometheus and Grafana, ensuring high availability and quick incident response.",
+        "Optimized container deployments with Kubernetes, enhancing scalability and resilience of the platform.",
+        "Established CI/CD pipelines with Jenkins, facilitating rapid and reliable software delivery.",
+        "Oversaw IT operations, configuring and maintaining network security measures to ensure data integrity and protection.",
+        "Ensured the platform's stability and scalability, contributing to its success in delivering quality education at scale.",
+        "Implemented network security protocols, safeguarding sensitive educational data and maintaining compliance with industry standards.",
+        "Coordinated effectively with cross-functional teams to ensure seamless integration and operation of all components of the platform.",
+        "Played a pivotal role in the platform’s overall success, supporting its mission to provide quality education to a large user base."
       ],
       "url": "https://igotkarmayogi.gov.in/"
+    },
+    {
+      "name": "Comodo Websites and Blogs Cloud Migration | Comodo Security Solutions Pvt. Ltd.",
+      "startDate": "2020-06-01",
+      "endDate": "2021-01-31",
+      "description": "During my tenure at Comodo Security Solutions Pvt. Ltd., I successfully led the migration of Comodo's websites and blogs to the cloud. This project aimed to enhance the performance, scalability, and reliability of the online presence of Comodo. By leveraging cloud technologies, we ensured a seamless transition with minimal downtime, improved security, and a robust infrastructure to handle future growth and traffic spikes.",
+      "highlights": [
+        "Orchestrated a smooth migration process, minimizing downtime and ensuring continuous availability of websites and blogs.",
+        "Improved load times and overall performance of the websites through optimized cloud infrastructure.",
+        "Implemented scalable solutions to accommodate future traffic growth and increased user engagement without compromising performance.",
+        "Strengthened security measures by integrating advanced cloud security protocols, ensuring data protection and compliance with industry standards.",
+        "Achieved cost savings by optimizing resource allocation and utilizing cloud-native tools for efficient management.",
+        "Established a robust disaster recovery plan, ensuring business continuity and quick recovery in case of any unforeseen events.",
+        "Coordinated with cross-functional teams, including developers, designers, and IT support, to ensure a cohesive and successful migration process.",
+        "Developed comprehensive documentation and guidelines to facilitate future maintenance and updates.",
+        "Implemented monitoring tools and conducted regular performance audits to continuously optimize the cloud infrastructure.",
+        "Enhanced the user experience by reducing downtime, improving website speed, and ensuring a reliable online presence."
+      ],
+      "url": "https://comodo.com"
     }
   ]
 }
