@@ -1,164 +1,309 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Kelvin Tay",
-    "label": "Software Engineer",
-    "image": "http://github.com/kelvintaywl.png",
-    "email": "kelvintaywl@gmail.com",
-    "phone": "(81) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "name": "Rajasimman S",
+    "label": "Cloud and DevOps Solutions Specialist",
+    "image": "https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/pp.jpg",
+    "email": "srajasimman@gmail.com",
+    "phone": "+91 8682832883",
+    "summary": "I am an enthusiastic, IT specialist in system administration, integration, and automation. With over 14 years of experience, I have built and operated IT infrastructure and systems on-premises and in the cloud, using classic SysOps tools and more recent DevOps technologies. While initially building and maintaining services on hardware machines for internal and external customers, I later worked on migrating similar services into new environments with modern toolchains. In the past years, I've spent more time migrating services into Kubernetes, deployed and orchestrated locally and in the cloud. I have also supported development teams in migrating their services into cloud infrastructure. I enjoy closely following the latest changes in technology and apply this to my duties wherever relevant.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "B/4 S.P.Garden, T.Nagar",
+      "postalCode": "600017",
+      "city": "Chennai",
+      "countryCode": "IN",
+      "region": "Tamilnadu"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "rajasimman-sha",
+        "url": "https://linkedin.com/in/rajasimman-sha"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "Github",
+        "username": "srajasimman",
+        "url": "https://github.com/srajasimman"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Opt IT Technologies (I) Pvt. Ltd",
+      "location": "Bangalore",
+      "position": "Team Lead - SRE, DevOps and Cloud Services",
+      "url": "https://optit.in",
+      "startDate": "2021-08-16",
+      "summary": "IT Infrastructure Management Services & DevOps Services company.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Leading SRE & Cloud Support team: Responsible for managing and leading the SRE & Cloud Support team, including hiring and training team members, setting team goals and objectives, and monitoring team performance.",
+        "Ensuring reliability and availability: Responsible for ensuring that the company's IT infrastructure and cloud services are reliable and available to users. This includes monitoring system health, responding to incidents, and implementing changes to improve system reliability and availability.",
+        "Managing incidents: Responsible for managing incidents, coordinating with other teams to resolve issues, and ensuring that incidents are properly documented and communicated to stakeholders.",
+        "Designing and implementing solutions: Responsible for designing and implementing solutions to improve the performance, scalability, and reliability of the company's IT infrastructure and cloud services.",
+        "Cloud infrastructure management: Responsible for managing the cloud infrastructure, including setting up and configuring the infrastructure, monitoring its health, and optimizing its performance.",
+        "Collaborating with other teams: Collaborating with other teams, including development, operations, and security teams, to ensure that the company's IT infrastructure and cloud services are reliable, available, and secure.",
+        "Providing technical guidance: Providing technical guidance and mentorship to team members, ensuring that they have the necessary skills and knowledge to perform their jobs effectively.",
+        "Managing budgets and resources: Responsible for managing budgets and resources related to the SRE & Cloud Support team and ensuring that they are allocated appropriately.",
+        "Onboarding new team members: Responsible for ensuring that new team members are properly onboarded and trained on the company's IT infrastructure and cloud services, as well as the team's processes and procedures."
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "name": "Comodo Security Solutions Pvt Ltd.",
+      "location": "Chennai",
+      "position": "Lead System Administrator - IT Operations and Cloud",
+      "url": "https://comodo.com",
+      "startDate": "2017-07-01",
+      "endDate": "2021-08-13",
+      "summary": "Information Technology & Services",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Administration of Cloud Services and Data Center Infrastructures",
+        "Create, configure, monitor, and management of IT Infrastructures",
+        "Selfhosting websites/web apps and various services based on requirements",
+        "IT Automation and Configuration Management using various tools",
+        "Application Deployment, Configure, Backup/Restore and Upgrade",
+        "Apache, Nginx, and Tomcat web server installations and Configuration",
+        "MySQL, PostgreSQL and MongoDB Administration",
+        "Design/Development of Backup Management Systems",
+        "Development of Continuous Deployment and Integration Systems",
+        "Infrastructure, Server and Application Migration to Cloud",
+        "Creating Reusable Tools and Modules",
+        "Conducting technical interviews for the team and training them",
+        "Knowledgebase and Documentation Creation for Team"
+      ]
+    },
+    {
+      "name": "Corent Technology Pvt Ltd.",
+      "location": "Chennai",
+      "position": "Senior System Administrator",
+      "url": "https://www.corenttech.com",
+      "startDate": "2016-10-01",
+      "endDate": "2017-07-01",
+      "summary": "Software Development for Cloud Migration, PaaS & Other Cloud Services",
+      "highlights": [
+        "Administration of Cloud Infrastructures in Amazon Web Services and Microsoft Azure Cloud",
+        "Administration of In house Data Centre Infrastructures and Private Cloud",
+        "Create, configure, monitor and management of Private Cloud Infrastructures",
+        "Application Deployment, Configure, Backup/Restore and Upgrade",
+        "Design and Development of Backup and Deployment Scripts",
+        "Infrastructure Migration on Cloud Environment",
+        "Develop Configuration Management Solutions",
+        "Create tools to help teams make the most out of the available infrastructure",
+        "Apache, Nginx and Tomcat webserver installations and Configuration",
+        "MySQL, PostgreSQL and MongoDB Administration",
+        "Cloud knowledgebase Update for Team"
+      ]
+    },
+    {
+      "name": "Brandidea Consultance (P) Ltd",
+      "location": "Chennai",
+      "position": "Senior IT Executive",
+      "url": "https://www.brandidea.ai",
+      "startDate": "2014-10-01",
+      "endDate": "2016-10-01",
+      "summary": "Software Development for Sales & Marketing Analytics.",
+      "highlights": [
+        "Management of Cloud Infrastructures in AWS and Google Cloud.",
+        "Create, configure, monitor and management of Cloud Infrastructures.",
+        "Upload and update database and other data to cloud server.",
+        "Help tune performance and ensure high availability of infrastructure.",
+        "Responsible for supporting: Windows XP/Vista/Windows 7/10, Linux Desktop, Office Suite, Office 365, Windows/ Linux Server, Active Directory management, MS Exchange 2003/2007, Lotus Domino Server, iPhone/Android/Windows Mobile, Backup products, Anti-Virus products, Bio Metric Devices, CCTV Systems, DNS/DHCP, TCP/IP, Ethernet, wireless router and Firewall Configurations.",
+        "Diagnosis of desktop, application, networking and infrastructure issues.",
+        "Administering the IT department's policies and procedures.",
+        "Maintaining a log of all problems detected and system backups.",
+        "Responsible for maintaining backups and crash recovery.",
+        "Working closely with software suppliers to resolve operational issues."
+      ]
+    },
+    {
+      "name": "Hella India Automotive Pvt., Ltd.",
+      "location": "Chennai",
+      "position": "IT Support Engineer - Infrastructure Management",
+      "url": "https://www.hella.com/hella-in/",
+      "startDate": "2012-09-01",
+      "endDate": "2014-10-01",
+      "summary": "Automotive Lighting Design and Development",
+      "highlights": [
+        "Management of Windows Clients and Network Infrastructure",
+        "First and Second level support for network related issues",
+        "Installation of operating system and application on new systems",
+        "Update operating system and application patch on client systems",
+        "Installation of CAD applications (CATIA and Autodesk Moldflow)",
+        "Deploy Software package via CA IT Client Management",
+        "Configure, Monitor and management of network data storages",
+        "Configure the Lotus Notes email client for users",
+        "Support users via remote assistance tools",
+        "IT Asset management and IT Peripherals management"
+      ]
+    },
+    {
+      "name": "CMS Infosystems Private Limited",
+      "location": "Chennai",
+      "position": "IT Support Engineer",
+      "url": "https://www.cms.com",
+      "startDate": "2010-12-01",
+      "endDate": "2012-09-01",
+      "summary": "IT Infrastructure Support and Services",
+      "highlights": [
+        "Troubleshooting and configuring Windows XP and Windows 7 Clients for LAN Configuration of DNS, DHCP, Creating user account and providing policies like user account quota, authentication",
+        "Performed Remote Administration and remote Assistance for the users",
+        "Software Application Deployment to Client Systems",
+        "Taking backup periodically and restoration. Allocating the disk quota for the user",
+        "Monitoring Performance alerts triggered by the server & Resolving Hardware & Software related calls",
+        "Troubleshooting & installations of applications.",
+        "Managing storage server and folder create/access control",
+        "Provide Remote support using windows remote assistance tools.",
+        "Troubleshooting breakdown in hardware calls and operating systems calls",
+        "Installation, configure and troubleshoot operating systems. (NT/2000/XP and Windows 7)",
+        "Installation of printers, scanners and peripherals & resolving the hardware issues",
+        "Email Configuration MS Outlook, Data card and VPN",
+        "Asset Management, Movement Tracking and Maintenance of the Database"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
+      "institution": "University of Madras",
+      "url": "https://www.unom.ac.in/",
+      "area": "Computer Technology",
+      "studyType": "Bachelor of Computer Applications",
+      "startDate": "2005-06-01",
+      "endDate": "2008-05-01",
+      "score": "",
+      "courses": []
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "institution": "C.D.Nayagam Higher Secondary School",
+      "area": "Commerce and Economics",
+      "studyType": "Higher Secondary School",
+      "startDate": "2002-06-01",
+      "endDate": "2004-04-01",
+      "score": "",
+      "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Cloud Computing",
+      "level": "Expert",
+      "keywords": ["AWS Cloud", "Azure Cloud", "Google Cloud", "Oracle Cloud"]
+    },
+    {
+      "name": "SysOps and SRE",
+      "level": "Expert",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Linux",
+        "Debian",
+        "Ubuntu",
+        "RHEL",
+        "Shell Scripting",
+        "Grafana",
+        "Prometheus",
+        "Nagios",
+        "Datadog",
+        "Networking",
+        "Jira",
+        "Confluence"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "DevOps",
+      "level": "Expert",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Docker",
+        "Kubernetes",
+        "Helm Charts",
+        "Jenkins",
+        "Github",
+        "Gitlab",
+        "Github Action",
+        "Ansible",
+        "Terraform",
+        "Nginx",
+        "Apache",
+        "Tomcat",
+        "MySQL",
+        "Postgresql",
+        "Cassandra",
+        "Elasticsearch",
+        "Redis"
       ]
+    },
+    {
+      "name": "Scripting",
+      "level": "Expert",
+      "keywords": ["Shell Scripting", "Python", "JavaScript", "Golang"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Native"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Learning and Expiriment",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Artificial Intelligence",
+        "IoT",
+        "Electronics",
+        "Cyber Security"
+      ]
+    },
+    {
+      "name": "Travel and Exploring",
+      "keywords": [
+        "Forest Camping",
+        "Trecking",
+        "Mountain Climbing"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Ștefan Amarandei",
+      "reference": "IT Manager at Ness Digital Engineering Romania"
+    },
+    {
+      "name": "Mathew Jose Pallan",
+      "reference": "Technology Architect, System Designer, Polyglot Programmer"
     }
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "iGOT Karmayogi Bharat | NIC Govt of India",
+      "startDate": "2023-06-01",
+      "description": "As a key player in the IGOT Karmayogi project, I managed both SRE and DevOps functions, ensuring seamless operations and scalability. Utilizing Terraform and Ansible, I automated infrastructure provisioning and configuration, optimizing resource utilization. Implementation of robust monitoring solutions, including Prometheus and Grafana, bolstered platform availability and performance. Leveraging Kubernetes orchestration, I enhanced containerized deployments for increased scalability and resilience. Furthermore, I orchestrated CI/CD pipelines with Jenkins, enabling swift and reliable software delivery. Overseeing IT operations, I implemented stringent network security measures, safeguarding data integrity. My contributions played a pivotal role in maintaining the stability, scalability, and security of the IGOT Karmayogi platform, fostering effective online learning and collaboration.",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Managed both SRE and DevOps functions",
+        "Infrastructure Performance and Cost Optimization",
+        "Implemented robust monitoring solutions",
+        "Leveraged Kubernetes orchestration",
+        "Implemented CI/CD pipelines with Jenkins",
+        "Implemented network security measures",
+        "Managed IT operations and deployment"
       ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
+      "url": "https://igotkarmayogi.gov.in/"
+    },
+    {
+      "name": "DIKSHA | NCERT Govt. of India",
+      "startDate": "2021-08-16",
+      "endDate": "2023-05-31",
+      "description": "As Team Leader in the DIKSHA project, I managed the SRE and DevOps teams for project Diksha, a large-scale education platform. Leveraging Terraform and Ansible, I automated infrastructure provisioning and configuration, ensuring efficiency. I implemented robust monitoring with Prometheus and Grafana, enhancing availability. Kubernetes orchestration optimized container deployments for scalability and resilience. CI/CD pipelines with Jenkins facilitated rapid software delivery. Additionally, I oversaw IT operations, configuring network security measures for data integrity. My efforts ensured the platform's stability, scalability, and security, contributing to its success in delivering quality education.",
+      "highlights": [
+        "Managed both SRE and DevOps functions",
+        "Provisioned and configured infrastructure in Microsoft Azure Cloud",
+        "Infrastructure Performance and Cost Optimization",
+        "Implemented robust monitoring solutions",
+        "Leveraged Kubernetes orchestration",
+        "Implemented CI/CD pipelines with Jenkins",
+        "Implemented network security measures",
+        "Managed IT operations and deployment"
       ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
+      "url": "https://igotkarmayogi.gov.in/"
     }
-  ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
-  }
+  ]
 }
