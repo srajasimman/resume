@@ -3,7 +3,7 @@ name: Publish resume in JSONResume format as Github Page
 # Controls when the action will run. 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, main ]
     paths:
       - "resume.json"
   # Allows you to run this workflow manually from the Actions tab
@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: check_run
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: kelvintaywl/action-jsonresume-export@v1
         name: Export resume as HTML
         with:
