@@ -46,3 +46,11 @@ jobs:
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           branch: ${{ github.ref }}
+
+      - name: Update Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          gist_id: 184483339270e7e76ecc72734c7f5d21
+          file_path: resume.json
+          file_type: text
