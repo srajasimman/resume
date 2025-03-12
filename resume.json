@@ -28,11 +28,38 @@
   },
   "work": [
     {
+      "name": "FloSports Inc.",
+      "location": "Austin, Texas",
+      "position": "Lead SRE and Cloud DevOps",
+      "url": "https://www.flosports.tv",
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "summary": "Sports Media and Broadcasting Company",
+      "highlights": [
+        "Cloud Infrastructure: Design, deploy, and manage AWS, GCP, and Azure environments using Terraform and IaC.",
+        "SRE & Reliability: Implement SRE best practices to improve system uptime, scalability, and resilience.",
+        "Observability & Monitoring: Set up Prometheus, Grafana, and Datadog for logging, monitoring, and alerting.",
+        "Containers & Orchestration: Deploy and manage Docker & Kubernetes workloads, optimizing with Helm charts.",
+        "CI/CD Pipelines: Automate deployments with GitHub Actions, Jenkins, and Cloud Build, ensuring efficient rollouts.",
+        "Performance Optimization: Conduct load testing with K6 and analyze results to improve system efficiency.",
+        "Security & Compliance: Implement IAM, secrets management, and CDN security (Fastly, AWS CloudFront) for protection.",
+        "Networking & CDN: Configure firewall rules, caching, and shielding to enhance security and performance.",
+        "Software Development: Automate workflows and build tools using Go, TypeScript, Python, and Bash.",
+        "Infrastructure as Code (IaC): Develop reusable Terraform modules for scalable and consistent infrastructure.",
+        "Cloud Cost Optimization: Monitor and reduce cloud spending through resource tuning and automation.",
+        "Incident Response: Lead on-call rotations, RCA, and self-healing automation to minimize downtime.",
+        "Deployment Strategies: Implement blue-green deployments, canary releases, and rollbacks for safe releases.",
+        "Collaboration & Documentation: Work closely with developers, write clear runbooks, playbooks, and wikis.",
+        "Automation & Innovation: Continuously improve processes by adopting new DevOps and SRE technologies."
+      ]
+    },
+    {
       "name": "Opt IT Technologies (I) Pvt. Ltd",
       "location": "Bangalore",
       "position": "Team Lead - SRE, DevOps and Cloud Services",
       "url": "https://optit.in",
       "startDate": "2021-08-16",
+      "endDate": "2023-09-30",
       "summary": "IT Infrastructure Management Services & DevOps Services company.",
       "highlights": [
         "Leading SRE & Cloud Support team: Responsible for managing and leading the SRE & Cloud Support team, including hiring and training team members, setting team goals and objectives, and monitoring team performance.",
