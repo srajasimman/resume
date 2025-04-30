@@ -17,7 +17,6 @@ I've architected and delivered mission-critical infrastructure for large-scale p
 **🧩 Core Philosophy**
 
 > "Design systems that don’t need babysitting."
-> 
 
 I believe in building **resilient, self-healing systems** backed by **automation-first** thinking. Whether it’s infrastructure, CI/CD pipelines, observability, or incident response, my approach is to **eliminate toil**, **create repeatable patterns**, and **empower development teams** through platforms that just work.
 
