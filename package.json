@@ -1,18 +1,18 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "description": "Kelvin Tay's resume in JSONResume format",
+  "description": "Rajasimman's resume in JSONResume format",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kelvintaywl/resume.git"
+    "url": "git+https://github.com/srajasimman/srajasimman.git"
   },
   "keywords": [
     "jsonresume",
     "resume",
     "developer"
   ],
-  "author": "kelvintaywl@gmail.com",
-  "homepage": "https://github.com/kelvintaywl/resume#readme",
+  "author": "srajasimman@gmail.com",
+  "homepage": "https://www.srajasimman.dev",
   "devDependencies": {
     "jsonresume-theme-standard-resume": "^1.3.0",
     "resume-cli": "^3.0.3"

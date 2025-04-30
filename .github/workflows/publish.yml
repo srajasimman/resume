@@ -16,7 +16,7 @@ jobs:
     steps:
       - run: echo "${{ github.event.head_commit.message }}"
 
-  build:
+  build-resume:
     runs-on: ubuntu-latest
     needs: check_run
     steps:
@@ -54,3 +54,16 @@ jobs:
           gist_id: 184483339270e7e76ecc72734c7f5d21
           file_path: resume.json
           file_type: text
+
+  build-about:
+    runs-on: ubuntu-latest
+    needs: check_run
+    steps:
+      - uses: actions/checkout@v4
+      - name: Converts Markdown to HTML
+        uses: jaywcjlove/markdown-to-html-cli@main
+        with:
+          source: docs/about.md
+          output: docs/index.html
+          github-corners: false
+
