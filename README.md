@@ -1,1 +1,1 @@
-docs/about.md
+about.md
